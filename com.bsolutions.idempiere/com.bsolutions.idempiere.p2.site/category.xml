@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+    <feature 
+    	url="features/com.bsolutions.idempiere.feature_10.0.0.qualifier.jar" 
+    	id="com.bsolutions.idempiere.feature" version="10.0.0.qualifier">
+	    <category name="com.bsolutions.idempiere.feature"/>
+    </feature>
+</site>

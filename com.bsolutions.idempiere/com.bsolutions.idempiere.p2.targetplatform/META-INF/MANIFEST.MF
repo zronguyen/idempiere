@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Targetplatform
+Bundle-SymbolicName: com.bsolutions.idempiere.p2.targetplatform
+Bundle-Version: 10.0.0.qualifier
+Bundle-Vendor: BSOLUTIONS
+Automatic-Module-Name: com.bsolutions.idempiere.p2.targetplatform
+Bundle-RequiredExecutionEnvironment: JavaSE-11
